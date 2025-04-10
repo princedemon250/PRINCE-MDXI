@@ -11,11 +11,11 @@ function convertToBool(text, fault = 'true') {
 return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "prince_md-iIdnRApT#0u5WhUuWpBtDtGP7YfJsWCdx0XkvXLG6AN9kGYoHvEw",
-AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
+SESSION_ID: process.env.SESSION_ID || "prince_md-HUcAEJyY#4GJ5kJoMJ3azgnstsVQe6Pwyw9y-rGWSviSjvM-upC4",
+AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "false",
 MODE: process.env.MODE || "private",
-OWNER_NUMBER: process.env.OWNER_NUMBER || "237682698587",
-OWNER_NAME: process.env.OWNER_NAME || "PRINCE",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "50940083161",
+OWNER_NAME: process.env.OWNER_NAME || "🍷𝛲𝑅𝛪𝛮𝐶𝛯_🌹_𝐷𝛯⍣⃝M⃝𝛩𝛮🍷",
 AUTO_VOICE: process.env.AUTO_VOICE || "false",
 AUTO_STICKER: process.env.AUTO_STICKER || "false",
 AUTO_REPLY: process.env.AUTO_REPLY || "false",
@@ -24,7 +24,7 @@ MENU_IMG: process.env.MENU_IMG || "https://raw.githubusercontent.com/Mayelprince
 ALIVE_MSG: process.env.ALIVE_MSG || "Hi 💁🏽 How Can I Assist You. Am alive Now.",
 ANTI_LINK: process.env.ANTI_LINK || "true",
 ANTI_BAD: process.env.ANTI_BAD || "true",
-PREFIX: process.env.PREFIX || ".",
+PREFIX: process.env.PREFIX || "†",
 ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "log",
 FAKE_RECORDING: process.env.FAKE_RECORDING || "false",
 FAKE_TYPING: process.env.FAKE_TYPING || "false",
